@@ -34,3 +34,6 @@ Emulators marked with a link should be downloaded separately.
 This emulator collection does not include firmware and bios. I may support piracy, but just fucking google it man...
 
 This collection has also no roms of any kind. Google it!
+
+> This collection in of itself is under the public domain. Emulators themselves are under different licenses.
+Please be wary of this.
